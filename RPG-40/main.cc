@@ -15,6 +15,6 @@ using namespace std;
 
 
 int main (){
-	cout << 
+	cout << "JUNGLE ESCAPE" << endl; 
 
 }
